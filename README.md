@@ -15,3 +15,5 @@ Programy realizowane w ramach kursu *Programowanie w języku Forran 90/95* prowa
 **2023-05-16**: sortowanie  
 **2023-05-23**: funkcje rekursywne, parametry opcjonalne  
 **2023-05-30**: przeładowywanie operatorów, funkcja jako argument funkcji  
+**2023-06-06**: operacje na plikach i łańcuchach znaków, funkcja kwadratowa  
+**2023-06-13**: rekurencja, operacje na funkcjach matematycznych: procent składany, całkowanie, poszukiwanie miejsc zerowych
